@@ -5,4 +5,3 @@
 * ☁️ Learning DevOps and AWS.
 * 💡 Exploring Vue.js for frontend development.
 * 📚 Currently reading "Technical Communication, 11th edition"
-* 📧 Feel free to reach out to me at ginjame01@gmail.com. 
