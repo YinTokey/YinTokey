@@ -8,6 +8,8 @@
 
 <details>
   <summary>More details about me</summary>
+  
+![Yin's github stats](https://github-readme-stats.vercel.app/api?username=yintokey&show_icons=true)
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
