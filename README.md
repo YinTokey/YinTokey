@@ -2,9 +2,9 @@
 
 #### 💻 Full Stack Engineer
 
-- 🔍 Currently interested in Data Analytics and AI.  
-- 🖥️ 3+ years in backend development, 4+ years in iOS development.  
-- 🌱 Passionate about cognitive science and improving productivity.
+- 🌱 Passionate about AI and improving productivity.
+- 🖥️ 3+ years in backend development, 4+ years in iOS native development.  
+- 🔍 Currently Software Engineering Master’s student at Carleton University.
 
 <details>
   <summary>More details about me</summary>
