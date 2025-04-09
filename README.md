@@ -4,7 +4,6 @@
 
 - 🌱 Passionate about AI and improving productivity.
 - 🖥️ 3+ years in backend development, 4+ years in iOS native development.  
-- 🔍 Currently Software Engineering Master’s student at Carleton University.
 
 <details>
   <summary>More details about me</summary>
