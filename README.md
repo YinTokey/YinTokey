@@ -1,6 +1,6 @@
 ### Hi, I'm Yinjian 👋
 
-- I am a backend engineer focusing on Node.js, Python, Go and Devops.
+- I am a backend engineer focusing on Node.js, Python and Devops.
 - Interested in AI and full-stack
 - Former iOS engineer
 
