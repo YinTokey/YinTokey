@@ -1,6 +1,6 @@
 ### Hi, I'm Yinjian 👋
 
-- Backend Engineer (Node.js/Python/Go/Java) 💻
+- Backend Engineer (Node.js/Python/Go) 💻
 - Exploring Gen AI & Full-stack 🤖 
 - Former iOS Dev (2017-2021) 🍎
 
