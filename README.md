@@ -1,8 +1,7 @@
 ### Hi, I'm Yinjian 👋
 
-- Backend Engineer (Node.js/Python/Go) 💻
-- Exploring Gen AI & Full-stack 🤖 
-- Former iOS Dev (2017-2021) 🍎
+- Deep diving into Agentic AI
+- Former iOS and backend engineer
 
 <div align="left">
 <img src="https://github-profile-summary-cards-wine.vercel.app/api/cards/stats?username=YinTokey&theme=swift" />
