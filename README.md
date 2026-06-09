@@ -1,7 +1,7 @@
 ### Hi, I'm Yinjian 👋
 
-- 🎬 Building [PrepVid](https://prepvid.app) , a video pre-production workspace.
-- 🤖 Exploring Agentic AI systems, workflows.
+- 🎬 Building [PrepVid](https://prepvid.app) , a video pre-production workspace
+- 🤖 Exploring Agentic AI systems, workflows
 - Former full-time iOS and backend engineer
 
 <div align="left">
