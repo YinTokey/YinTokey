@@ -1,7 +1,8 @@
 ### Hi, I'm Yinjian 👋
 
-- Deep diving into Agentic AI
-- Former iOS and backend engineer
+- 🎬 Building [PrepVid](https://prepvid.app) , a video pre-production workspace.
+- 🤖 Exploring Agentic AI systems, workflows.
+- Former full-time iOS and backend engineer
 
 <div align="left">
 <img src="https://github-profile-summary-cards-wine.vercel.app/api/cards/stats?username=YinTokey&theme=swift" />
