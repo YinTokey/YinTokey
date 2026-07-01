@@ -2,6 +2,7 @@
 
 - 🎬 Building [PrepVid](https://prepvid.app) , a video pre-production workspace
 - 🤖 Exploring Agentic AI systems, workflows
+- 🎥 I sometimes share AI content on [Youtube](https://www.youtube.com/@yintokey)
 - Former full-time iOS and backend engineer
 
 <div align="left">
